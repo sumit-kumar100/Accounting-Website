@@ -15,6 +15,4 @@
 
 <img src="public/demo6.png" width="800" height="450">
 
-<img src="public/demo6.png" width="800" height="450">
-
 <img src="public/demo7.png" width="800" height="450">
