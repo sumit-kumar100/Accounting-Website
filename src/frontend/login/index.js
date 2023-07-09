@@ -15,8 +15,8 @@ import { Box, InputLabel, InputAdornment, FormControl, Typography, TextField, Bu
 const Subscription = dynamic(() => import('../../components/subscription'), { ssr: false })
 
 const defaultValues = {
-    mobile: "",
-    password: ""
+    mobile: "9355471196",
+    password: "Sumit123#"
 }
 
 const Login = () => {
