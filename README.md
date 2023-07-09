@@ -38,7 +38,7 @@ Welcome to the Accounting Website repository! This website provides a comprehens
 
 2. Navigate to the project directory.
     ```bash
-    cd accounting-website
+    cd Accounting-Website
 
 3. Install the required dependencies.
     ```bash
