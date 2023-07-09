@@ -1,4 +1,4 @@
-# Accounting-Website ( https://single-entry.vercel.app )
+# Accounting-Website - https://single-entry.vercel.app
 
 
 <img src="public/demo0.png" width="800" height="450">
