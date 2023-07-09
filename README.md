@@ -31,21 +31,21 @@ Welcome to the Accounting Website repository! This website provides a comprehens
 
 ## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/sumit-singh1196/Accounting-Website.git
+1. Clone the repository to your local machine.
+    ```bash
+    git clone https://github.com/sumit-singh1196/Accounting-Website.git
 
-2.Change to the project directory:
-```bash
-cd accounting-website
+2. Navigate to the project directory.
+    ```bash
+    cd accounting-website
 
-3.Install the dependencies:
-```bash
-npm install
-
-4.Start local server:
-```bash
-npm run dev
+3. Install the required dependencies.
+    ```bash
+    npm install
+    
+4. Install the required dependencies.
+    ```bash
+    npm run dev
 
 ## Usage
 1. Register vendors and customers in the interactive management section.
@@ -53,21 +53,21 @@ npm run dev
 3. View the automatically generated books, ledgers, and cashbook.
 4. Analyze profits on a monthly, daily, or yearly basis.
 
-
+## Usage
+- Here are some preview images of the Accounting Website:
 
 <img src="public/demo0.png" width="800" height="450">
-
 <img src="public/demo1.png" width="800" height="450">
-
 <img src="public/demo2.png" width="800" height="450">
-
 <img src="public/demo3.png" width="800" height="450">
-
 <img src="public/demo4.png" width="800" height="450">
-
 <img src="public/demo5.png" width="800" height="450">
-
 <img src="public/demo6.png" width="800" height="450">
-
 <img src="public/demo7.png" width="800" height="450">
 
+## Usage
+- Contributions to the Accounting Website project are welcome! If you find any issues or want to suggest improvements, please open an issue or submit a pull request.
+
+## License
+- This project is licensed under the MIT License.
+- Make sure to place the preview images in a folder named "previews" at the root of your project directory, and update the image paths accordingly in the README.md file.
