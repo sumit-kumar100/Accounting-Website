@@ -8,6 +8,7 @@ Welcome to the Accounting Website repository! This website provides a comprehens
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [Usage](#usage)
+- [Preview](#preview)
 - [Contributing](#contributing)
 - [License](#license)
 
